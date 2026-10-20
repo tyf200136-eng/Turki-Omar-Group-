@@ -1,0 +1,74 @@
+IMPORTANT:
+Do not modify any other section of the website.
+Keep the hero section, navigation, animations, typography system, spacing system, layout structure, and overall visual identity exactly as they are.
+Only redesign State 04 (Our Ecosystem).
+State 04 must remain in the same position within the page and preserve the existing scrolling flow.
+Create a premium sticky-scroll storytelling section titled:
+‎"منظومة متكاملة.. لنموّ لا يعرف الحدود"
+The section should introduce the three subsidiaries sequentially as interconnected parts of one ecosystem. Each company occupies a full-screen scroll state while remaining visually connected to the holding group.
+Design Philosophy:
+The goal is to maintain the luxury institutional aesthetic of the website.
+Do not use different brand colors for each company.
+Differentiate the subsidiaries through:
+	•	Unique 3D elements.
+	•	Motion behavior.
+	•	Lighting style.
+	•	Environmental atmosphere.
+	•	Depth and composition.
+Do NOT differentiate them through strong color changes.
+Color Restrictions:
+	•	Black background only.
+	•	White typography only.
+	•	Silver and metallic silver accents only.
+	•	No gold.
+	•	No blue.
+	•	No colorful gradients.
+	•	No neon effects.
+The entire section should feel like one cohesive premium ecosystem.
+General Requirements:
+	•	Full-screen immersive sections.
+	•	Sticky-scroll storytelling experience.
+	•	Cinematic transitions between subsidiaries.
+	•	Premium motion design.
+	•	Subtle orbital lines and ecosystem connections.
+	•	Refined glow effects.
+	•	Sophisticated depth and lighting.
+	•	No cards or boxed layouts.
+For each company create:
+	•	Large 3D logo placeholder in the center.
+	•	Premium floating glass or metallic pedestal.
+	•	Dedicated area for inserting the company logo later.
+	•	Company name.
+	•	Arabic description.
+	•	Premium CTA button.
+	•	Unique 3D visual environment.
+Company 01 — Hidden Code
+Arabic Description:
+‎"الذراع التقني للمجموعة؛ نختص بهندسة الحلول البرمجية وتطوير الأنظمة الرقمية المتقدمة التي تُمكّن المؤسسات من قيادة رحلة التحول الرقمي بكفاءة واقتدار."
+Visual Direction:
+	•	Advanced technology atmosphere.
+	•	Floating wireframe structures.
+	•	Digital architectural elements.
+	•	Precision engineering feel.
+	•	Minimal futuristic systems.
+	•	Sophisticated institutional appearance.
+Company 02 — TO Media
+Arabic Description:
+‎"وكالة تسويقية وإبداعية متكاملة، تصنع الهوية وتصيغ المحتوى الرقمي المؤثر، لتبني تجارب تسويقية فريدة تضمن للعلامات التجارية حضورًا راسخًا."
+Visual Direction:
+	•	Creative strategic atmosphere.
+	•	Elegant communication-inspired 3D elements.
+	•	Dynamic but controlled motion.
+	•	Storytelling and brand-building visual language.
+	•	Confident creative energy presented in a premium way.
+Company 03 — TO Studio
+Arabic Description:
+‎"منصة الإنتاج والتصوير الاحترافي التي تحوّل الأفكار إلى روائع مرئية، مقدمةً حلولاً بصرية وصناعة محتوى إبداعي يجسد قيمة العلامات التجارية بأعلى المعايير العالمية."
+Visual Direction:
+	•	Cinematic production atmosphere.
+	•	Premium glass reflections.
+	•	Editorial visual language.
+	•	Luxury production-house feeling.
+	•	Sophisticated visual storytelling environment.
+The logo stage of each company must be the hero element of the scene so I can easily replace the placeholder with the actual company logo later.
+The final result should feel like a world-class investment group website where all subsidiaries belong to one premium ecosystem while maintaining their own distinct identity through atmosphere, motion, lighting, and 3D design rather than color.

@@ -1,0 +1,28 @@
+Apply a visual enhancement to all logo spheres across State 04.
+Do not modify:
+	•	Layout
+	•	Typography
+	•	Content
+	•	Positioning
+	•	Animations
+	•	Orbit rings
+	•	Pedestals
+	•	Scroll behavior
+	•	Spacing
+	•	Any other sections of the website
+Only modify the appearance of the circular logo spheres.
+Requirements:
+	•	Replace the dark sphere interiors with a premium illuminated white-to-silver gradient.
+	•	Add a soft internal white glow behind each logo.
+	•	Increase logo visibility and contrast.
+	•	Create a refined glass-like appearance.
+	•	Use subtle silver highlights around the sphere edges.
+	•	Maintain a luxury monochromatic aesthetic.
+	•	Keep the glow soft, diffused, and elegant.
+	•	Avoid harsh brightness, bloom, or neon effects.
+	•	Use only white, silver, and grayscale tones.
+Apply the same treatment consistently to:
+	•	Hidden Code
+	•	TO Media
+	•	TO Studio
+The goal is to make all logo spheres feel brighter, more premium, and more visible while preserving the existing design, layout, and ecosystem identity of State 04.

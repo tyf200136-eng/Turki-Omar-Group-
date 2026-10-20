@@ -1,0 +1,10 @@
+Use the uploaded Hidden Code logo.
+Do not place the full horizontal logo lockup inside the circular logo stage.
+Instead:
+	•	Extract and use only the icon/symbol portion of the Hidden Code logo.
+	•	Center the icon inside the existing circular 3D logo stage.
+	•	Keep the Arabic and English wordmark outside the sphere and use the existing text area on the right side for the company name.
+	•	Preserve the current lighting, pedestal, glow, orbit rings, and composition.
+	•	Scale the icon appropriately so it fills 60–70% of the circular logo area.
+	•	Do not distort, crop, or stretch the logo.
+	•	Keep everything else unchanged.

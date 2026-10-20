@@ -1,0 +1,225 @@
+TURKI OMAR HOLDING GROUP — OFFICIAL WEBSITE EXPERIENCE
+Design the official website for Turki Omar Holding Group as an ultra-premium bilingual (Arabic-first) immersive storytelling experience.
+This is NOT a traditional corporate website.
+The website should feel like a cinematic digital manifestation of a visionary holding group that builds institutions, empowers innovation, and shapes the future.
+The final result should blend:
+	•	40% Apple elegance and simplicity.
+	•	40% Awwwards-style immersive storytelling.
+	•	20% luxury editorial sophistication.
+Visitors should not feel like they are browsing a website.
+They should feel like they are entering the world of Turki Omar Holding Group.
+
+BRAND POSITIONING
+Turki Omar Holding Group is a leading investment and operational group dedicated to establishing, scaling, and empowering innovative businesses through strategic leadership, digital transformation, advanced technologies, and long-term partnerships.
+
+DESIGN LANGUAGE
+Style
+	•	Ultra-premium.
+	•	Minimalist.
+	•	Timeless.
+	•	Architectural.
+	•	Sophisticated.
+	•	Institutional.
+	•	Confident.
+Avoid generic corporate aesthetics.
+Avoid excessive visual noise.
+Avoid gaming aesthetics.
+
+COLOR SYSTEM
+Primary Background:
+Deep Obsidian Black
+#0D0D0D
+Primary Typography:
+Pure White
+#FFFFFF
+Accent Colors (used sparingly):
+Hidden Code → Metallic Silver
+ToMedia → Warm Golden Yellow
+ToStudio → Electric Blue
+The overall experience should remain predominantly monochromatic.
+
+TYPOGRAPHY
+Primary Typeface:
+Almarai
+Typography Direction:
+	•	Large Arabic headlines.
+	•	Editorial compositions.
+	•	Strong hierarchy.
+	•	Spacious layouts.
+	•	Refined supporting text.
+	•	Arabic should always dominate over English.
+
+EXPERIENCE PRINCIPLES
+The website must function as one continuous immersive narrative.
+Avoid obvious section separations.
+Each scroll interaction should reveal a new chapter.
+Use:
+	•	Cinematic pacing.
+	•	Immersive storytelling.
+	•	Editorial sophistication.
+	•	Premium digital experiences.
+	•	Architectural motion systems.
+
+MOTION DESIGN REQUIREMENTS
+Motion is essential.
+Use elegant scroll-driven interactions throughout the experience.
+Include:
+	•	Scroll-triggered animations.
+	•	Pinned storytelling moments.
+	•	Smooth reveal sequences.
+	•	Progressive transformations.
+	•	Scale interactions.
+	•	Layered motion systems.
+	•	Subtle parallax depth.
+	•	Kinetic typography.
+	•	Directional transitions.
+	•	Minimal geometric storytelling elements.
+	•	Concentric circular systems.
+	•	Orbital line animations.
+	•	Cinematic chapter transitions.
+Motion should feel premium, restrained, and intentional.
+
+LOGO INTEGRATION
+Use the official Turki Omar Holding Group logo throughout the website.
+Do NOT redesign the logo.
+Preserve its original identity.
+The circular technological motif from the logo should inspire subtle visual systems throughout the experience.
+The official logo should remain flat and elegant.
+Use only the circular emblem and central "T" mark as inspiration for premium motion moments.
+
+STATE 01 — HERO
+Create an unforgettable introduction.
+Display the Turki Omar Holding Group logo prominently.
+Arabic Heading:
+‎"نصنع الكيانات التي تقود المستقبل"
+English Heading:
+"Building the Entities That Shape the Future"
+Arabic Body:
+‎"نُعيد صياغة الأفكار الطموحة لتصبح مؤسسات ذات أثر مستدام، عبر تمكينها برؤوس الأموال، والحلول التقنية المتقدمة، والتحالفات الاستراتيجية."
+English Body:
+"We transform ambitious ideas into enduring institutions through strategic investments, advanced technological solutions, and long-term partnerships."
+Experience:
+	•	Deep black environment.
+	•	Elegant cinematic lighting.
+	•	Premium logo treatment.
+	•	Minimal navigation.
+	•	Sophisticated introduction animations.
+	•	Scroll indicator encouraging exploration.
+Emotional Goal:
+Prestige. Leadership. Vision.
+
+STATE 02 — WHO WE ARE
+Arabic Heading:
+‎"مجموعة تركي عمر | ريادة التشغيل وبناء المستقبل"
+English Heading:
+"Turki Omar Group | Leading Operations, Building the Future"
+Arabic Body:
+‎"مجموعة تركي عمر هي كيان استثماري وتشغيلي رائد، يختص بتأسيس وتطوير الشركات الابتكارية ودفعها نحو الصدارة في مختلف القطاعات الحيوية.
+‎نؤمن بأن الأفكار الاستثنائية وُجدت لتُشكل الواقع. لذلك، نُسخّر طاقاتنا لتمكين المشاريع والشركات من خلال قيادة التحول الرقمي، وابتكار الحلول التقنية، وصياغة الاستراتيجيات التي تخلق قيمة مستدامة وأثرًا ممتدًا عابرًا للأجيال."
+English Body:
+"Turki Omar Group is a leading investment and operational entity specializing in building and scaling innovative businesses across vital sectors."
+Experience:
+As users scroll, elegant architectural lines gradually reveal themselves, symbolizing structure, stability, and operational excellence.
+
+STATE 03 — OUR VISION
+Arabic Heading:
+‎"نحو آفاق تقودها الرؤى والأفكار"
+English Heading:
+"Towards Horizons Driven by Vision and Ideas"
+Arabic Body:
+‎"نجمع بين البُعد الاستراتيجي، والتميز التشغيلي، والتقنيات الناشئة؛ لنصنع منظومة أعمال مرنة، قادرة على التكيف، والازدهار، واقتناص فرص الغد.
+‎إن كل كيان ينضوي تحت مظلة مجموعتنا يمثل لبنة أساسية في بناء مستقبل أكثر ابتكارًا واستدامة."
+Signature Scroll Interaction:
+As users scroll:
+	•	A small white square appears at the center.
+	•	The square gradually expands.
+	•	Multiple geometric outlines emerge.
+	•	Thin orbital lines animate elegantly.
+	•	Circular motion systems evolve outward.
+	•	The composition grows into an architectural structure.
+	•	The vision statement is then revealed.
+This interaction symbolizes growth, expansion, interconnected thinking, and future opportunities.
+
+STATE 04 — OUR ECOSYSTEM
+Present the subsidiaries as interconnected components of one ecosystem.
+Each entity should have its own atmosphere while remaining visually tied to the holding group.
+
+Hidden Code
+Arabic Description:
+‎"الذراع التقني للمجموعة؛ نختص بهندسة الحلول البرمجية وتطوير الأنظمة الرقمية المتقدمة التي تُمكّن المؤسسات من قيادة رحلة التحول الرقمي بكفاءة واقتدار."
+Experience:
+	•	Sophisticated technological atmosphere.
+	•	Minimal premium 3D elements.
+	•	Silver accent details.
+	•	Refined futuristic systems.
+
+ToMedia
+Arabic Description:
+‎"وكالة تسويقية وإبداعية متكاملة، تصنع الهوية وتصيغ المحتوى الرقمي المؤثر، لتبني تجارب تسويقية فريدة تضمن للعلامات التجارية حضورًا راسخًا."
+Experience:
+	•	Dynamic transitions.
+	•	Elegant golden highlights.
+	•	Creative confidence.
+	•	Controlled energy.
+
+ToStudio
+Arabic Description:
+‎"منصة الإنتاج والتصوير الاحترافي التي تحوّل الأفكار إلى روائع مرئية، مقدمةً حلولاً بصرية وصناعة محتوى إبداعي يجسد قيمة العلامات التجارية بأعلى المعايير العالمية."
+Experience:
+	•	Cinematic atmosphere.
+	•	Editorial transitions.
+	•	Premium storytelling.
+	•	Electric-blue accents.
+
+STATE 05 — WHAT WE BUILD
+Arabic Heading:
+‎"ركائز البناء الاستراتيجي"
+English Heading:
+"What We Build"
+Present the following pillars:
+‎• التحول الرقمي
+‎• الحلول التقنية
+‎• الشراكات الاستراتيجية
+‎• تطوير الأعمال
+Experience:
+Use sophisticated editorial layouts emphasizing confidence, precision, and clarity.
+
+STATE 06 — ARCHIVE
+Create a luxurious archive experience.
+Include:
+	•	Editorial portfolio layouts.
+	•	Premium grid systems.
+	•	Large visual compositions.
+	•	Video showcase blocks.
+	•	Elegant hover interactions.
+	•	Smooth transitions.
+The archive should transform credibility into proof.
+
+STATE 07 — CONTACT
+Arabic Heading:
+‎"لنصنع قصة النجاح القادمة"
+English Heading:
+"Let's Build the Next Success Story"
+Arabic Body:
+‎"تواصل معنا اليوم، لنناقش آفاق التعاون ونرسم معًا معالم مشروعك القادم ونترجم طموحاتك إلى نتائج استثنائية."
+English Body:
+"Connect with us to explore opportunities and transform ambitious visions into meaningful outcomes."
+Display:
+Email: info@turkiomar.com
+Phone: +966 55 979 3959
+CTA:
+Arabic: "ابدأ رحلتك معنا"
+English: "Start Your Journey"
+Experience:
+	•	Minimal monochromatic forms.
+	•	Spacious layouts.
+	•	Gentle concluding transitions.
+	•	A calm ending after the immersive journey.
+
+FINAL OBJECTIVE
+Design an immersive digital experience that reflects the prestige, confidence, and vision of Turki Omar Holding Group.
+Elegant like Apple.
+Immersive like Awwwards.
+Timeless like luxury editorial design.
+The visitor should leave with one lasting impression:
+"Turki Omar Holding Group is not simply operating businesses. It is shaping the future."
